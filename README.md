@@ -1,4 +1,4 @@
-Harvester
+HCI
 ========
 [![Build Status](https://drone-publish.rancher.io/api/badges/harvester/harvester/status.svg)](https://drone-publish.rancher.io/harvester/harvester)
 [![Go Report Card](https://goreportcard.com/badge/github.com/harvester/harvester)](https://goreportcard.com/report/github.com/harvester/harvester)
